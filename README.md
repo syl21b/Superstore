@@ -38,7 +38,21 @@ This project undertakes a comprehensive exploration of the Superstore dataset, l
 * **Practical Time Series Applications:** Demonstrate concrete examples of trend identification, comparison, and moving average calculations within SQL.
 * **Data-Driven Culture:** Foster informed decision-making within the organization by providing accessible and insightful data visualization through the integrated dashboards.
 
-## **Workbook Structure:**
+## **Tableau Workbook Structure:**
+
+Read **Superstore Dashboards Info.pdf** to get more details.
+
+
+### 📊 Tableau Dashboard
+
+This repo includes a Tableau dashboard file (`Superstore_Dashboard.twbx`) that visualizes Superstore sales data.
+
+* To open:
+   - Download Tableau Public or Tableau Desktop
+   - Open `Superstore_Dashboard.twbx` from this repo\
+  
+* Or use this link to access the interactive dashboards:
+https://public.tableau.com/views/Superstore_17455418407990/TimeSeriesTrendForecasting?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 The workbook contains the following dashboards, each designed to answer specific business questions:
 
@@ -50,3 +64,17 @@ The workbook contains the following dashboards, each designed to answer specific
 
 
 By integrating the granular insights derived from SQL with the visual power of these interconnected dashboards, this project delivers a comprehensive understanding of the Superstore's performance, empowering data-driven strategies and informed business decisions.
+
+* Images of dashboards:\
+<img width="1397" alt="Screenshot 2025-05-04 at 22 52 51" src="https://github.com/user-attachments/assets/068d04df-272a-48a9-8380-3bc6fc49b9ab" />\
+  <img width="1399" alt="Screenshot 2025-05-04 at 22 53 03" src="https://github.com/user-attachments/assets/abbf18d5-a9a8-4122-9c79-5a149381d608" />\
+  <img width="1391" alt="Screenshot 2025-05-04 at 22 53 09" src="https://github.com/user-attachments/assets/69977390-50f4-445e-8fde-349beb3fd96f" />\
+  <img width="1396" alt="Screenshot 2025-05-04 at 22 53 16" src="https://github.com/user-attachments/assets/b8fdf53a-02b2-4af1-b9fc-221954690685" />\
+  <img width="1394" alt="Screenshot 2025-05-04 at 22 53 25" src="https://github.com/user-attachments/assets/33ff5719-1beb-4bfb-9c76-168c8e3c9aeb" />
+
+
+
+
+
+
+
