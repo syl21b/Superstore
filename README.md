@@ -2,6 +2,19 @@
 
 This project undertakes a comprehensive exploration of the Superstore dataset, leveraging the power of SQL for granular data extraction and manipulation, culminating in insightful, interconnected dashboards.
 
+
+📁 **Dataset:**
+
+   This project uses the [SuperStore Time Series Dataset](https://www.kaggle.com/datasets/blurredmachine/superstore-time-series-dataset/data) from Kaggle.
+   
+   The dataset includes detailed sales records over time with fields such as:
+   - Order ID, Order Date, Ship Date
+   - Product Category, Sub-Category, Sales, Profit
+   - Customer and Region Information
+   
+   🗂️ Source: [Kaggle - SuperStore Time Series Dataset](https://www.kaggle.com/datasets/blurredmachine/superstore-time-series-dataset/data)
+
+
 **Key Objectives:**
 
 * **Comprehensive Data Exploration:** Utilize SQL to deeply analyze the Superstore dataset.
