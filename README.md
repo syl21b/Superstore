@@ -38,14 +38,15 @@ This project undertakes a comprehensive exploration of the Superstore dataset, l
 * **Practical Time Series Applications:** Demonstrate concrete examples of trend identification, comparison, and moving average calculations within SQL.
 * **Data-Driven Culture:** Foster informed decision-making within the organization by providing accessible and insightful data visualization through the integrated dashboards.
 
-**Workbook Structure:**
+## **Workbook Structure:**
 
 The workbook contains the following dashboards, each designed to answer specific business questions:
 
 1.  **Executive Summary Dashboard:** Provides a high-level overview of key performance indicators.
-2.  **Time Series & Trend Forecasting Dashboard:** Analyzes performance trends over time.
-3.  **Geographic Performance Dashboard:** Explores performance based on location.
-4.  **Product & Sales Strategy Dashboard:** Focuses on product performance and sales tactics.
-5.  **Customer Behavior Dashboard:** Examines customer engagement and churn.
+2.  **Customer Behavior Dashboard:** Examines customer engagement and churn.
+3.  **Product & Sales Strategy Dashboard:** Focuses on product performance and sales tactics.
+4.  **Geographic Performance Dashboard:** Explores performance based on location.
+6.  **Time Series & Trend Forecasting Dashboard:** Analyzes performance trends over time.
+
 
 By integrating the granular insights derived from SQL with the visual power of these interconnected dashboards, this project delivers a comprehensive understanding of the Superstore's performance, empowering data-driven strategies and informed business decisions.
