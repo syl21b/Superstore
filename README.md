@@ -81,9 +81,9 @@ By integrating the granular insights derived from SQL with the visual power of t
 * Images of dashboards:\
 <img width="1397" alt="Screenshot 2025-05-04 at 22 52 51" src="https://github.com/user-attachments/assets/068d04df-272a-48a9-8380-3bc6fc49b9ab" />\
 <img width="1390" alt="Screenshot 2025-05-07 at 17 52 08" src="https://github.com/user-attachments/assets/942b12f2-b1f5-4033-bf53-03fe149ffb38" />\
-  <img width="1391" alt="Screenshot 2025-05-04 at 22 53 09" src="https://github.com/user-attachments/assets/69977390-50f4-445e-8fde-349beb3fd96f" />\
-  <img width="1396" alt="Screenshot 2025-05-04 at 22 53 16" src="https://github.com/user-attachments/assets/b8fdf53a-02b2-4af1-b9fc-221954690685" />\
-  <img width="1394" alt="Screenshot 2025-05-04 at 22 53 25" src="https://github.com/user-attachments/assets/33ff5719-1beb-4bfb-9c76-168c8e3c9aeb" />
+<img width="1394" alt="Screenshot 2025-05-07 at 17 59 39" src="https://github.com/user-attachments/assets/4b960d29-2345-4126-be68-80203cd1edb8" />\
+<img width="1396" alt="Screenshot 2025-05-04 at 22 53 16" src="https://github.com/user-attachments/assets/b8fdf53a-02b2-4af1-b9fc-221954690685" />\
+<img width="1394" alt="Screenshot 2025-05-04 at 22 53 25" src="https://github.com/user-attachments/assets/33ff5719-1beb-4bfb-9c76-168c8e3c9aeb" />
 
 
 
