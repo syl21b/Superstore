@@ -14,6 +14,7 @@ This project undertakes a comprehensive exploration of the Superstore dataset, l
    
    🗂️ Source: [Kaggle - SuperStore Time Series Dataset](https://www.kaggle.com/datasets/blurredmachine/superstore-time-series-dataset/data)
 
+**Final Report**: Superstore Performance Analysis Report.pdf
 
 **Key Objectives:**
 
